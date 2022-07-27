@@ -1,0 +1,27 @@
+.title{
+    font-size: 30px;
+    width: 100%;
+    font-family: 'Courier New', Courier, monospace, Bold;
+}
+
+.span1{
+    color: coral;
+    font-size: smaller;
+}
+
+#footer{
+    bottom: 0;
+    position: fixed;
+    color: whitesmoke;
+    background-color: cornflowerblue;
+    width: 100%;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+canvas{
+    border: 5px dotted coral;
+    border-radius: 3px;
+    box-shadow: 5px 3px 5px cornflowerblue;
+}
